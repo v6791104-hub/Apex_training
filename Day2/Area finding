@@ -1,0 +1,23 @@
+PROGRAM:
+
+# Area of Square, Circle and Rectangle
+
+side = 5
+radius = 7
+length = 10
+breadth = 4
+
+square_area = side * side
+circle_area = 3.14 * radius * radius
+rectangle_area = length * breadth
+
+print("Area of Square:", square_area)
+print("Area of Circle:", circle_area)
+print("Area of Rectangle:", rectangle_area)
+
+
+OUTPUT:
+
+Area of Square: 25
+Area of Circle: 153.86
+Area of Rectangle: 40
